@@ -1,8 +1,8 @@
 {
-  "version": "4.4.1",
+  "version": "4.4.2",
   "file": "UniversalPOS.exe",
-  "sha256": "f849a08a7aaf5c379274b2cb0fdb66084e40dc6ffd87fc7aab5f781b484979f5",
-  "size_mb": 36.7,
   "file_url": "https://github.com/mohammedAlnasiry/pos-updates/releases/latest/download/UniversalPOS.exe",
-  "notes": "النسخة 4.4.1 - رابط تحديث تلقائي مدمج"
+  "sha256": "6a4d628921b19d9b974cf8c9ef74b11f56ee70b53f83091d23a070a362c91171",
+  "size_mb": 36.7,
+  "notes": "تحديث أمني: مفاتيح تشفير خاصة بكل جهاز + تأمين النقاط البرمجية + حماية تسجيل الدخول من التخمين"
 }
