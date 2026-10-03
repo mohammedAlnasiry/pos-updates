@@ -1,8 +1,8 @@
 {
-  "version": "4.4.2",
+  "version": "4.4.3",
   "file": "UniversalPOS.exe",
   "file_url": "https://github.com/mohammedAlnasiry/pos-updates/releases/latest/download/UniversalPOS.exe",
-  "sha256": "6a4d628921b19d9b974cf8c9ef74b11f56ee70b53f83091d23a070a362c91171",
+  "sha256": "696851384b8553d6fe7cf2587e7ea742ad5ec8a49f2443b21864d494405865de",
   "size_mb": 36.7,
-  "notes": "تحديث أمني: مفاتيح تشفير خاصة بكل جهاز + تأمين النقاط البرمجية + حماية تسجيل الدخول من التخمين"
+  "notes": "إصلاح حاسم: حل مشكلة التحديث التلقائي اللي كانت تخلي البرنامج ما يفتح بعد التحديث (تحديثات مستقبلية تنزل بسلاسة)"
 }
