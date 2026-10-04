@@ -1,8 +1,8 @@
 {
-  "version": "4.4.4",
+  "version": "4.4.5",
   "file": "UniversalPOS.exe",
   "file_url": "https://github.com/mohammedAlnasiry/pos-updates/releases/latest/download/UniversalPOS.exe",
-  "sha256": "a663278a2e1e100f688b6438ba6b11eff0ab2f5e99b9c364706df0a89649adbc",
+  "sha256": "76037cf815cca9d5d47acfb90d20f81e205307704b34cca1bfa858acbe0327c0",
   "size_mb": 39.1,
-  "notes": "تشفير كامل لقاعدة البيانات: ملف البيانات محمي بمفتاح خاص بجهازك — حتى لو انسرق الملف ما أحد يقدر يقراه أو يعدل عليه"
+  "notes": "تحديث 4.4.5: استقرار كامل لقاعدة البيانات + تشفيرها أثناء إغلاق البرنامج بمفتاح خاص بجهازك"
 }
