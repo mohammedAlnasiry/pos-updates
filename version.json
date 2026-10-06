@@ -1,8 +1,8 @@
 {
-  "version": "4.6.0",
+  "version": "4.8.4",
   "file": "UniversalPOS.exe",
   "file_url": "https://github.com/mohammedAlnasiry/pos-updates/releases/latest/download/UniversalPOS.exe",
-  "sha256": "8a5c6542143ca1499da6567c715963697f7f5bff518b30bcbf830176cffaab3a",
-  "size_mb": 39.1,
-  "notes": "تقارير شهرية وسنوية بلوحة التحكم: تبويبات يوم/شهر/سنة مع الربح والمقارنات"
+  "sha256": "10f1c3b87410d7f462bf7abf01c853c71b6c5337e35d008f434c9a975e85cfe8",
+  "size_mb": 38.9,
+  "notes": "تصدير Excel للديون: ورقة قائمة الديون + ورقة سجل التسديدات بتواريخها"
 }
