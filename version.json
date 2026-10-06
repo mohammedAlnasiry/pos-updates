@@ -1,8 +1,8 @@
 {
-  "version": "4.8.4",
+  "version": "4.9.4",
   "file": "UniversalPOS.exe",
   "file_url": "https://github.com/mohammedAlnasiry/pos-updates/releases/latest/download/UniversalPOS.exe",
-  "sha256": "10f1c3b87410d7f462bf7abf01c853c71b6c5337e35d008f434c9a975e85cfe8",
-  "size_mb": 38.9,
-  "notes": "تصدير Excel للديون: ورقة قائمة الديون + ورقة سجل التسديدات بتواريخها"
+  "sha256": "82637d69c54cd802af1a2266c52b431062b8673616112c676a1f4eaa13f52117",
+  "size_mb": 38.89,
+  "notes": "تحديث أمني كبير: إصلاح بيع مزدوج محتمل + مرتجع البطاقة + نسخ احتياطي مشفر + حماية قناة التحديث + WAL"
 }
