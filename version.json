@@ -1,8 +1,8 @@
 {
-  "version": "4.9.7",
+  "version": "4.9.8",
   "file": "UniversalPOS.exe",
   "file_url": "https://github.com/mohammedAlnasiry/pos-updates/releases/latest/download/UniversalPOS.exe",
-  "sha256": "6e5f43bc5ab26592300f7a5bb49529f78f062a578667cf53b3b6fe264b4e5527",
-  "size_mb": 38.98,
-  "notes": "تحديث أمني كبير: إصلاح بيع مزدوج محتمل + مرتجع البطاقة + نسخ احتياطي مشفر + حماية قناة التحديث + WAL"
+  "sha256": "ac4f9a8a194ccebf52328b52323c40b66bdfe0ca0e45caacb545f74cf9100530",
+  "size_mb": 39.0,
+  "notes": "Fix: restoration of all shift routes (open/active/history) killed by duplicate APIRouter"
 }
