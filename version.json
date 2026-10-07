@@ -1,8 +1,8 @@
 {
-  "version": "4.9.6",
+  "version": "4.9.7",
   "file": "UniversalPOS.exe",
   "file_url": "https://github.com/mohammedAlnasiry/pos-updates/releases/latest/download/UniversalPOS.exe",
-  "sha256": "20abd0f885e54129b23d1dbad728a74ba8e0cabc316e6d80e4983509a1832ed6",
-  "size_mb": 38.89,
+  "sha256": "6e5f43bc5ab26592300f7a5bb49529f78f062a578667cf53b3b6fe264b4e5527",
+  "size_mb": 38.98,
   "notes": "تحديث أمني كبير: إصلاح بيع مزدوج محتمل + مرتجع البطاقة + نسخ احتياطي مشفر + حماية قناة التحديث + WAL"
 }
