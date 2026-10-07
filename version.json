@@ -1,8 +1,8 @@
 {
-  "version": "4.9.8",
+  "version": "4.9.9",
   "file": "UniversalPOS.exe",
   "file_url": "https://github.com/mohammedAlnasiry/pos-updates/releases/latest/download/UniversalPOS.exe",
-  "sha256": "ac4f9a8a194ccebf52328b52323c40b66bdfe0ca0e45caacb545f74cf9100530",
+  "sha256": "285d1e322f775cc8a0a01c0ffa99cc26b603763719b277de7ae4ca2dc2183f78",
   "size_mb": 39.0,
-  "notes": "Fix: restoration of all shift routes (open/active/history) killed by duplicate APIRouter"
+  "notes": "Branding: app icon (multi-size) + favicons + login logo"
 }
