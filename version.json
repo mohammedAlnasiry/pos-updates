@@ -1,8 +1,8 @@
 {
-  "version": "4.9.12",
+  "version": "4.9.13",
   "file": "UniversalPOS.exe",
   "file_url": "https://github.com/mohammedAlnasiry/pos-updates/releases/latest/download/UniversalPOS.exe",
-  "sha256": "7ea78dab0cf43bd2943e911804d84d38d28a7ed38456643c00bdcd3239131b1a",
+  "sha256": "dc0812ae8704970d5cfb06f1ee2c2f89119eededa936e2d11b86b652e1edccc4",
   "size_mb": 39.0,
-  "notes": "Unified user editing: removed old self-edit card, edit all users from the table (self requires current password)"
+  "notes": "Comprehensive audit fixes: security, money logic (refund proration, paid-parts, WAL-safe restore), UI shortcuts and XSS hardening"
 }
