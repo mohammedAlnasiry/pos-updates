@@ -1,8 +1,8 @@
 {
-  "version": "4.9.10",
+  "version": "4.9.11",
   "file": "UniversalPOS.exe",
   "file_url": "https://github.com/mohammedAlnasiry/pos-updates/releases/latest/download/UniversalPOS.exe",
-  "sha256": "3717f71ea2274422d6667f270f4c949b981ccf44370c17b8964fa950e38779ea",
+  "sha256": "260b59fc0892591709fc9c7851beee65bad8ddac682dcac6d25422b044ec3866",
   "size_mb": 39.0,
-  "notes": "Updater fix: multi-source update check (api.github.com release fallback)"
+  "notes": "Admin can edit any user (username/password/role) without knowing their current password + edit modal in settings"
 }
