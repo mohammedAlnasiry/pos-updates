@@ -1,8 +1,8 @@
 {
-  "version": "4.9.13",
+  "version": "4.9.14",
   "file": "UniversalPOS.exe",
   "file_url": "https://github.com/mohammedAlnasiry/pos-updates/releases/latest/download/UniversalPOS.exe",
-  "sha256": "dc0812ae8704970d5cfb06f1ee2c2f89119eededa936e2d11b86b652e1edccc4",
+  "sha256": "12df075d7739c901200f4f2db335e3a854b6bea6509caf7532f900c356fa8398",
   "size_mb": 39.0,
-  "notes": "Comprehensive audit fixes: security, money logic (refund proration, paid-parts, WAL-safe restore), UI shortcuts and XSS hardening"
+  "notes": "Fix white flash on startup: window background color matches dark theme"
 }
