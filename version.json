@@ -1,8 +1,8 @@
 {
-  "version": "4.9.14",
+  "version": "4.9.15",
   "file": "UniversalPOS.exe",
   "file_url": "https://github.com/mohammedAlnasiry/pos-updates/releases/latest/download/UniversalPOS.exe",
-  "sha256": "12df075d7739c901200f4f2db335e3a854b6bea6509caf7532f900c356fa8398",
-  "size_mb": 39.0,
-  "notes": "Fix white flash on startup: window background color matches dark theme"
+  "sha256": "daa499187b2da2262fefb853081eaac27a9dc10c0a2f1c52261ea0e86ccfd2e2",
+  "size_mb": 39.1,
+  "notes": "Barcode label printing for products (CODE128, multiple sizes)"
 }
