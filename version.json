@@ -1,8 +1,8 @@
 {
-  "version": "4.9.9",
+  "version": "4.9.10",
   "file": "UniversalPOS.exe",
   "file_url": "https://github.com/mohammedAlnasiry/pos-updates/releases/latest/download/UniversalPOS.exe",
-  "sha256": "285d1e322f775cc8a0a01c0ffa99cc26b603763719b277de7ae4ca2dc2183f78",
+  "sha256": "3717f71ea2274422d6667f270f4c949b981ccf44370c17b8964fa950e38779ea",
   "size_mb": 39.0,
-  "notes": "Branding: app icon (multi-size) + favicons + login logo"
+  "notes": "Updater fix: multi-source update check (api.github.com release fallback)"
 }
