@@ -2,7 +2,7 @@
   "version": "4.9.17",
   "file": "UniversalPOS.exe",
   "file_url": "https://github.com/mohammedAlnasiry/pos-updates/releases/latest/download/UniversalPOS.exe",
-  "sha256": "4afd2b3ea0bff2f8e7065f31a5ff5fc9361a48eaf49a6dea033a57849dd3d6ed",
-  "size_mb": 39.3,
-  "notes": "Weighted sales + nightly report + fixes"
+  "sha256": "126ecee26023bb209fca470f9c0f66c0a6cb0d5a71994192de3df4504d52b797",
+  "size_mb": 39.1,
+  "notes": "تحديث Universal POS 4.9.17"
 }
