@@ -2,7 +2,7 @@
   "version": "4.9.19",
   "file": "UniversalPOS.exe",
   "file_url": "https://github.com/mohammedAlnasiry/pos-updates/releases/latest/download/UniversalPOS.exe",
-  "sha256": "03f001b1fb76d5a3c06f5c25487a5833f69a7aa0d40e94fb70f5d114b6ef4c87",
+  "sha256": "e5df17c73749c36d7b026b25ba7d6ed3aa01408188f3753367aa72add8e4db82",
   "size_mb": 39.1,
-  "notes": "تحديث Universal POS 4.9.19 - دفع مختلط نقدي وبطاقة بفاتورة وحدة"
+  "notes": "تحديث Universal POS 4.9.19 - دفع مختلط نقدي وبطاقة + لوحة تفعيل عند انتهاء الترخيص"
 }
