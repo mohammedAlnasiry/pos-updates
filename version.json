@@ -2,7 +2,7 @@
   "version": "4.9.19",
   "file": "UniversalPOS.exe",
   "file_url": "https://github.com/mohammedAlnasiry/pos-updates/releases/latest/download/UniversalPOS.exe",
-  "sha256": "10a621f1635d0253366efcbe49fa90e25add6fe58353fd5ee26466c863b067c4",
-  "size_mb": 39.1,
-  "notes": "تحديث Universal POS 4.9.19 - دفع مختلط + تفعيل تلقائي + طابعة ملصقات + إصلاح الماسح + شاشة تحميل + رقم المورّد بشاشات التفعيل"
+  "sha256": "42a0469064f8dbc77bf68793dafc9f28479c098edb58c4b112351913c06da45f",
+  "size_mb": 39.0,
+  "notes": "تحديث دكان 4.9.19: تبديل الاسم إلى دكان مع لوقو وأيقونة جديدة"
 }
