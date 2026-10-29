@@ -2,7 +2,7 @@
   "version": "4.9.19",
   "file": "UniversalPOS.exe",
   "file_url": "https://github.com/mohammedAlnasiry/pos-updates/releases/latest/download/UniversalPOS.exe",
-  "sha256": "937abcc3c3ca4313387874d83ab427a160e5fb2845b671bbca3c30225032be5d",
-  "size_mb": 39.0,
-  "notes": "تحديث دكان 4.9.19: مراجعة شاملة وإصلاح 22 خطأ بالحسابات والمخزون والواجهات"
+  "sha256": "3bb580082ad26091c36de3bc42bf602eb14af46ec0e448bbc50d481e1f6b50c6",
+  "size_mb": 39.1,
+  "notes": "تحديث دكان 4.9.19: لوقو دكان المخطوط الجديد + مراجعة شاملة"
 }
